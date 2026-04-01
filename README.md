@@ -15,7 +15,7 @@ its a qr code geneaator using qr code free api from google where you can generat
 
 *How to Run
 1. Clone the repository
-2. Open index.html in your browser
+2. Open qrc.html in your browser
 
 ![Screenshot](Screenshot%202026-04-01%20162037.png)
 ![Screenshot](Screenshot%202026-04-01%20162137.png)
